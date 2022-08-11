@@ -4,7 +4,7 @@ print('\n\x1b[1;37m[•] Checking Update...');time.sleep(0.5)
 
 os.system('git pull')
 
-os.system('xdg-open https://www.facebook.com/groups/351076900316263/p>
+
 
 logo = ("""\033[1;37m==============================
 
