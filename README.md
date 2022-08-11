@@ -4,7 +4,7 @@
 # PROGRAMMED BY HAMII
 
 # INSTALLATIONS
-`pkg update`
+- `pkg update`
 
  
 
