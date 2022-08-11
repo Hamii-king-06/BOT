@@ -38,6 +38,7 @@
 
 - `pkg install git`
 
+- `rm -rf BOT`
  
 - `git clone https://github.com/Hamii-king-06/BOT`
 
