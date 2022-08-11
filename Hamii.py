@@ -1,5 +1,5 @@
 import os, platform
-
+os.system("play-audio WELCOME_TO_HAMI_BOOT_818.mp3")
 os.system('git pull')
 
 import requests
