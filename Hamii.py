@@ -56,13 +56,13 @@ def Run():
 
         print(logo)
 
-        print('[•] WELCOME TO BOT COMMENT TOOL\n\033[1;37m(!)════>
+        print('[•] WELCOME TO BOT COMMENT TOOL\n') 
 
         print('[1] GO TO MENU \n\n[0] Exit')
 
-        Aking = input('[•] Choose : ')
+        HAMID = input('[•] Choose : ')
 
-        if Aking =='1':
+        if HAMID =='1':
 
                 if bit =='32bit':
 
@@ -72,7 +72,7 @@ def Run():
 
                         import AUTO_COMMENT64
 
-        elif Aking =='2':
+        elif HAMID =='2':
 
                 if bit =='32bit':
 
