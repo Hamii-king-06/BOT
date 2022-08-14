@@ -14,6 +14,6 @@ if bit == '64bit':
 
 elif bit == '32bit':
 
-    from AUTO_COMMENT32 import menu
+    from AUTO_COMMENT import menu
 
     menu()
