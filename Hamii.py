@@ -8,12 +8,12 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from AUTO_COMMENT64 import menu
+    from BOT import menu
 
     menu()
 
 elif bit == '32bit':
 
-    from AUTO_COMMENT import menu
+    from BOT64 import menu
 
     menu()
